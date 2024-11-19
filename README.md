@@ -38,3 +38,7 @@ W celu optymalizacji działania (szybkość ładowania / SEO), zastosowano:
 ## Uruchomienie
 
 Aplikacja została uruchomiona na hostingu współdzielonym w środowisku NodeJS.
+
+## Następne wersje
+
+Rozszerzenie funkcjonalności o wewnętrzną aplikację opartą na mapach, konfiguracja przy użyciu Prismy (w trakcie).
