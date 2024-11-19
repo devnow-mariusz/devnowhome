@@ -2,6 +2,8 @@
 
 Dynamiczna, dwujęzyczna strona domowa Devnow.net zbudowana na frameworku NextJS.
 
+Podgląd: https://devnow.net
+
 ## Użyte technologie / biblioteki
 
 - NextJS
