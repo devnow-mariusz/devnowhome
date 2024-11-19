@@ -1,0 +1,51 @@
+{
+  "home_hero_header": "Chcesz zlecić wykonanie projektu?",
+  "home_button_hero": "Darmowa wycena",
+  "offer_short": {
+    "header": "Wybierz swój wariant",
+    "button": "Więcej",
+    "basic_site": {
+      "title": "Prosta <1></1> strona",
+      "description": "Idealna, gdy rozpoczynasz działalność w internecie."
+    },
+    "complex_site": {
+      "title": "Rozbudowana <1></1> strona",
+      "description": "Optymalne rozwiązanie, gdy potrzebujesz niestandardowych funkcjonalności i większej personalizacji."
+    },
+    "online_shop": {
+      "title": "Sklep <1></1> internetowy",
+      "description": "Poprowadź swój biznes w sieci."
+    }
+  },
+  "experience": {
+    "header": "Urzeczywistnijmy Twoją wizję",
+    "content": "Posiadane przeze mnie doświadczenie to gwarancja zrozumienia potrzeb oraz profesjonalnej realizacji projektu. W moim portfolio znajdziesz strony internetowe i aplikacje webowe o różnym stopniu złożoności – od prostych witryn po zaawansowane programy. Przez ostatnie lata współpracowałem z wieloma ekspertami IT, tworzyłem lub współtworzyłem rozwiązania dla małych i średnich firm, a także współtworzyłem jedną z rządowych aplikacji. Skontaktuj się i sprawdź, jak możemy wspólnie przekuć Twój pomysł w realne rozwiązanie."
+  },
+  "stats": {
+    "projects": "Projektów",
+    "years": "Lat doświadczenia",
+    "technologies": "Technologii",
+    "completed_projects": "Liczba ukończonych projektów",
+    "active_years": "Lata aktywnej pracy w branży",
+    "technologies_used": "Zastosowane w projektach"
+  },
+  "cooperation_stages": {
+    "header": "Krok po kroku",
+    "step_one": {
+      "title": "Krok 1: Konsultacja i podpisanie umowy",
+      "content": "Rozpoczynamy od konsultacji, w której szczegółowo omawiamy Twoje potrzeby, cele i preferencje. Na tej podstawie przygotowujemy zakres prac i warunki współpracy. Po ich akceptacji, przystępujemy do podpisania umowy, która gwarantuje realizację projektu w ustalonym terminie."
+    },
+    "step_two": {
+      "title": "Krok 2: Przekazanie materiałów",
+      "content": "W kolejnym kroku zbieramy od Ciebie niezbędne materiały, takie jak treści, zdjęcia, logotypy czy informacje o identyfikacji wizualnej. W ten sposób możemy lepiej dostosować projekt do Twoich oczekiwań, zapewniając spójność wizualną i funkcjonalną."
+    },
+    "step_three": {
+      "title": "Krok 3: Projektowanie",
+      "content": "Na etapie projektowania opracowujemy wstępny wygląd strony. Dbamy o estetykę i funkcjonalność, aby spełniał on Twoje oczekiwania. Prototyp umożliwia wprowadzenie uwag i korekt."
+    },
+    "step_four": {
+      "title": "Krok 4: Realizacja i wdrożenie",
+      "content": "Po akceptacji prototypu (który niekiedy staje się już praktycznie gotowym produktem) przechodzimy do realizacji i wdrożenia strony. Piszemy nowy kod lub dostosowujemy obecny w zależności od wybranego wariantu, testujemy jej działanie na różnych urządzeniach oraz przeglądarkach. Po wdrożeniu zapewniamy wsparcie techniczne i szkolenie, abyś mógł w pełni korzystać z gotowej strony."
+    }
+  }
+}

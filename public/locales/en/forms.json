@@ -1,0 +1,18 @@
+{
+  "MINIMUM": "Too few characters",
+  "MAXIMUM": "Too many characters",
+  "REQUIRED": "Field is required",
+  "EMAIL": "Invalid email address",
+  "PHONE_WRONG": "Invalid phone number format",
+  "FORM_INVALID": "Please fill in the missing information",
+  "NIP_INVALID": "Invalid number. Enter NIP without spaces or dashes.",
+  "POSTAL_CODE_INVALID": "Correct format: XX-XXX",
+  "MINIMUM_ELEMENTS_LENGTH": "You must add at least one element.",
+  "FILE_BROKEN": "File type not recognized or file is empty.",
+  "FILE_TYPE": "Invalid file type.",
+  "FILE_SIZE": "File size is too large.",
+  "POLICY_CHECK_REQUIRED": "Consent checkbox is required.",
+  "SEND_SUCCESS": "The form has been successfully submitted",
+  "SEND_ERROR": "Form submission error",
+  "RECAPTCHA_REQUIRED": "Complete the reCAPTCHA"
+}

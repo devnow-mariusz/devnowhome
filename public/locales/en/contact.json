@@ -1,0 +1,20 @@
+{
+  "page_title": "Contact",
+  "form_title": "Contact form",
+  "company_details": "Company details",
+  "phone_call": "Would like to talk?",
+  "button_phone_call": "Order a conversation",
+  "paragraph_section": {
+    "paragraph1": "Any questions? I am at your disposal and encourage you to use the form.",
+    "paragraph2": "If you want, you can also use the dedicated <1>valuation form</1>, which will help you answer most important questions."
+  },
+  "button_show": "Show",
+  "consent_text": "I consent to the processing of my personal data in accordance with <1>privacy policy</1> (required).",
+  "button_send": "Send",
+  "form": {
+    "name": "Name",
+    "last_name": "Last name",
+    "email_address": "E-mail address",
+    "message": "Message"
+  }
+}

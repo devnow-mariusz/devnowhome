@@ -1,0 +1,51 @@
+{
+  "home_hero_header": "Commission a project?",
+  "home_button_hero": "Free valuation",
+  "offer_short": {
+    "header": "Choose your variant",
+    "button": "More",
+    "basic_site": {
+      "title": "Simple <1></1> Website",
+      "description": "Perfect when you start your online business."
+    },
+    "complex_site": {
+      "title": "Complex <1></1> Website",
+      "description": "The optimal solution when you need more than standard functionalities and greater personalization."
+    },
+    "online_shop": {
+      "title": "Online <1></1> Shop",
+      "description": "Run your business online."
+    }
+  },
+  "experience": {
+    "header": "Let's make your vision a reality",
+    "content": "My experience is a guarantee of understanding the needs and professional implementation of the project. In my portfolio you will find websites and web applications of varying degrees of complexity - from simple websites to advanced programs. Over recent years, I have cooperated with many IT experts, created or co-created solutions for small and medium-sized companies, and also co-created one of the government applications. Contact me and see how together we can turn your idea into a real solution."
+  },
+  "stats": {
+    "projects": "Projects",
+    "years": "Years of experience",
+    "technologies": "Technologies",
+    "completed_projects": "Number of completed projects",
+    "active_years": "Years of active work",
+    "technologies_used": "Used in projects"
+  },
+  "cooperation_stages": {
+    "header": "Step by step",
+    "step_one": {
+      "title": "Step 1: Consultation and signing the contract",
+      "content": "We start with a consultation in which we discuss your needs, goals and preferences in detail. On this basis, we prepare the scope of work and terms of cooperation. After acceptance, we proceed to sign a contract that guarantees the implementation of the project within the agreed deadline."
+    },
+    "step_two": {
+      "title": "Step 2: Transfer of design materials",
+      "content": "In the next step, we collect the necessary materials from you, such as content, photos, logos and information about visual identification. This way, we can better adapt the project to your expectations, ensuring visual and functional consistency."
+    },
+    "step_three": {
+      "title": "Step 3: Design",
+      "content": "At the design stage, we develop the initial appearance of the website. We care about aesthetics and functionality so that it meets your expectations. The prototype allows for comments and corrections to be made."
+    },
+    "step_four": {
+      "title": "Step 4: Development and deploy",
+      "content": "After accepting the prototype (which sometimes becomes a practically finished product), we move on to the development and deploy of the website. We write new code or adapt the current one depending on the selected variant, we test its operation on various devices and browsers. After deploy, we provide technical support and training so that you can fully use the finished website."
+    }
+  }
+}

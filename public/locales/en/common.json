@@ -1,0 +1,32 @@
+{
+  "menu_home": "Home page",
+  "menu_git": "Git",
+  "menu_realizations": "Realizations",
+  "menu_project_x": "Project X",
+  "menu_offer": "Offer",
+  "menu_valuation": "Valuation",
+  "menu_about": "About",
+  "menu_contact": "Contact",
+  "footer_policy": "Privacy policy",
+  "footer_cookies": "Cookies",
+  "footer_all_rights": "All rights reserved",
+  "cookies": {
+    "button_accept": "Accept",
+    "button_reject": "Reject",
+    "cookies_modal": {
+      "content_title": "Cookie consent management",
+      "content_paragraph": "We use analytical cookies to better understand how you use the site. You can consent to their use or withdraw your consent at any time."
+    },
+    "cookies_consent_bar": {
+      "content_paragraph": "To ensure the correct operation of the site, we use necessary cookies and analytical files to improve the quality of services. You can change your consent or refusal by clicking the link in the footer of the page."
+    }
+  },
+  "call_order_modal": {
+    "name": "Name",
+    "phone_number": "Phone number",
+    "button_send": "Send",
+    "privacy_policy_consent": "I consent to the processing of my personal data in accordance with <1>privacy policy</1> (required).",
+    "content_paragraph": "Do you have any questions? Provide your details and I will call you back as soon as I can.",
+    "content_title": "Order a phone call"
+  }
+}

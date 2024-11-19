@@ -1,0 +1,112 @@
+{
+  "privacyPolicy": {
+    "title": "Polityka Prywatności",
+    "effectiveDate": "Data wejścia w życie: <strong>{{date}}</strong>",
+    "introduction": {
+      "part1": "Niniejsza Polityka Prywatności określa zasady przetwarzania danych osobowych gromadzonych za pośrednictwem formularza kontaktowego, formularza zapytania ofertowego oraz za pomocą plików cookies na stronie internetowej <strong>DEVNOW</strong> („Strona”).",
+      "part2": "Dbamy o prywatność użytkowników i bezpieczeństwo ich danych, dlatego dokładamy wszelkich starań, aby Twoje dane były przetwarzane zgodnie z obowiązującymi przepisami prawa, w szczególności zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO)."
+    },
+    "sections": {
+      "dataController": {
+        "title": "1. Administrator Danych",
+        "content": "Administratorem Twoich danych osobowych jest <strong>DEVNOW</strong>, z siedzibą w Gdańsku przy <strong>ul. Marsa 24B/13, 80-299</strong>, wpisana do rejestru pod numerem <strong>NIP 5811928738</strong>. W sprawach dotyczących przetwarzania danych osobowych możesz kontaktować się z nami pod adresem e-mail: <strong>kontakt@devnow.net</strong>."
+      },
+      "dataCollection": {
+        "title": "2. Jakie dane zbieramy?",
+        "contactForm": {
+          "title": "2.1. Formularz kontaktowy",
+          "content": "W przypadku skorzystania z formularza kontaktowego, zbieramy następujące dane osobowe:"
+        },
+        "offerForm": {
+          "title": "2.2. Formularz zapytania ofertowego",
+          "content": "Korzystając z formularza zapytania ofertowego, przetwarzamy następujące dane:"
+        },
+        "callOrder": {
+          "title": "2.3. Formularz zamawiania rozmowy telefonicznej",
+          "content": "W celu realizacji rozmowy telefonicznej na życzenie użytkownika zbieramy:"
+        },
+        "cookies": {
+          "title": "2.4. Pliki cookies",
+          "content": "Strona wykorzystuje pliki cookies w celu:"
+        },
+        "recaptcha": {
+          "title": "2.5. reCAPTCHA",
+          "content": "Strona wykorzystuje reCAPTCHA, narzędzie firmy Google, które służy do ochrony formularzy przed nieautoryzowanym dostępem oraz wykrywaniem botów. Użycie reCAPTCHA podlega Polityce Prywatności i Warunkom Korzystania z Usług Google. Dane zbierane przez reCAPTCHA mogą obejmować informacje o aktywności użytkownika na Stronie oraz dane techniczne, takie jak adres IP i interakcje z elementami formularza."
+        },
+        "googleAnalytics": {
+          "title": "2.6. Google Analytics",
+          "content": "Strona korzysta z Google Analytics, narzędzia analitycznego dostarczanego przez Google, które gromadzi dane statystyczne o ruchu na Stronie. Dane zbierane przez Google Analytics obejmują m.in. adres IP, rodzaj przeglądarki, lokalizację geograficzną, czas przebywania na stronie i kliknięcia na Stronie. Te informacje pomagają nam lepiej zrozumieć zachowanie użytkowników oraz ulepszać funkcjonalność i zawartość Strony."
+        },
+        "contactFormItems": [
+          "Imię i nazwisko",
+          "Adres e-mail",
+          "Treść wiadomości"
+        ],
+        "offerFormItems": [
+          "Imię i nazwisko",
+          "Adres e-mail",
+          "Numer telefonu",
+          "Nazwa firmy",
+          "Adres firmy",
+          "NIP firmy",
+          "Szczegóły dotyczące zapytania ofertowego, takie jak: technologie, opis projektu (opcjonalnie), załączniki (opcjonalnie)"
+        ],
+        "cookiesItems": [
+          "Zapewnienia prawidłowego funkcjonowania strony",
+          "Usprawnienia nawigacji i personalizacji treści"
+        ]
+      },
+      "processingPurposes": {
+        "title": "3. Cele przetwarzania danych",
+        "content": "Dane osobowe zebrane za pomocą formularzy, cookies oraz narzędzi analitycznych przetwarzane są w następujących celach:",
+        "items": [
+          "Odpowiedź na zapytanie przesłane za pomocą formularza kontaktowego",
+          "Przygotowanie i przesłanie oferty handlowej",
+          "Optymalizacja działania strony",
+          "Utrzymanie poprawności działania strony",
+          "Analiza ruchu na stronie za pomocą Google Analytics",
+          "Ochrona przed spamem i botami za pomocą reCAPTCHA"
+        ]
+      },
+      "legalBasis": {
+        "title": "4. Podstawy prawne przetwarzania danych",
+        "content": "Przetwarzanie danych osobowych odbywa się na podstawie:",
+        "items": [
+          "Art. 6 ust. 1 lit. a RODO – zgoda osoby, której dane dotyczą (w przypadku kontaktu przez formularz kontaktowy lub zapytania ofertowego)",
+          "Art. 6 ust. 1 lit. b RODO – konieczność przetwarzania danych w celu realizacji umowy lub działań przedumownych (w przypadku formularza zapytania ofertowego)",
+          "Art. 6 ust. 1 lit. f RODO – uzasadniony interes administratora (w celu zapewnienia funkcjonowania strony)"
+        ]
+      },
+      "dataRetention": {
+        "title": "5. Czas przechowywania danych",
+        "content": "Dane z formularza kontaktowego i zapytania ofertowego przechowujemy przez okres niezbędny do realizacji celu, w którym zostały zebrane, lub do momentu cofnięcia zgody. Dane z plików cookies przechowujemy przez czas określony w ustawieniach przeglądarki. Użytkownik może w każdej chwili zmienić ustawienia dotyczące plików cookie w przeglądarce lub całkowicie je wyłączyć. Wyłączenie plików cookie może jednak wpłynąć na funkcjonalność naszej strony internetowej."
+      },
+      "rights": {
+        "title": "6. Twoje prawa",
+        "content": "W związku z przetwarzaniem danych osobowych przysługują Ci następujące prawa:",
+        "items": [
+          "Prawo dostępu do swoich danych osobowych",
+          "Prawo do sprostowania swoich danych",
+          "Prawo do usunięcia danych („prawo do bycia zapomnianym”)",
+          "Prawo do ograniczenia przetwarzania danych",
+          "Prawo do przenoszenia danych",
+          "Prawo do wniesienia sprzeciwu wobec przetwarzania danych",
+          "Prawo do cofnięcia zgody na przetwarzanie danych w dowolnym momencie"
+        ],
+        "contact": "Aby skorzystać z powyższych praw, skontaktuj się z nami za pomocą adresu e-mail: <strong>kontakt@devnow.net</strong>."
+      },
+      "dataRecipients": {
+        "title": "7. Odbiorcy danych",
+        "content": "Twoje dane mogą być udostępniane podmiotom przetwarzającym je na nasze zlecenie, takim jak dostawcy usług IT, jednak wyłącznie w zakresie niezbędnym do świadczenia usług. Wszystkie te podmioty są zobowiązane do zachowania poufności i zapewnienia odpowiednich środków ochrony danych."
+      },
+      "policyChanges": {
+        "title": "8. Zmiany w Polityce Prywatności",
+        "content": "Zastrzegamy sobie prawo do wprowadzania zmian w niniejszej Polityce Prywatności. Aktualne informacje zawsze będą dostępne na tej stronie."
+      },
+      "contact": {
+        "title": "9. Kontakt",
+        "content": "W razie pytań dotyczących przetwarzania danych osobowych, prosimy o kontakt pod adresem e-mail: <strong>kontakt@devnow.net</strong>."
+      }
+    }
+  }
+}

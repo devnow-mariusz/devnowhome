@@ -1,0 +1,112 @@
+{
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "effectiveDate": "Effective Date: <strong>{{date}}</strong>",
+    "introduction": {
+      "part1": "This Privacy Policy outlines the principles of processing personal data collected via the contact form, the offer inquiry form, and through cookies on the <strong>DEVNOW</strong> website.",
+      "part2": "We care about the privacy of users and the security of their data; therefore, we strive to ensure that your data is processed in accordance with applicable legal regulations, in particular, in accordance with the Regulation of the European Parliament and of the Council (EU) 2016/679 (GDPR)."
+    },
+    "sections": {
+      "dataController": {
+        "title": "1. Data Controller",
+        "content": "The data controller of your personal data is <strong>DEVNOW</strong>, based in Gdańsk at <strong>ul. Marsa 24B/13, 80-299</strong>, registered under the number <strong>NIP 5811928738</strong>. For matters related to the processing of personal data, you can contact us via email at: <strong>kontakt@devnow.net</strong>."
+      },
+      "dataCollection": {
+        "title": "2. What Data Do We Collect?",
+        "contactForm": {
+          "title": "2.1. Contact Form",
+          "content": "When using the contact form, we collect the following personal data:"
+        },
+        "offerForm": {
+          "title": "2.2. Offer Inquiry Form",
+          "content": "When using the offer inquiry form, we process the following data:"
+        },
+        "callOrder": {
+          "title": "2.3. Phone call request form",
+          "content": "In order to conduct a telephone conversation at the user’s request, we collect:"
+        },
+        "cookies": {
+          "title": "2.4. Cookies",
+          "content": "The website uses cookies for:"
+        },
+        "recaptcha": {
+          "title": "2.5. reCAPTCHA",
+          "content": "The website uses reCAPTCHA, a tool from Google that is used to protect forms against unauthorized access and detect bots. Use of reCAPTCHA is subject to the Google Privacy Policy and Terms of Service. Data collected by reCAPTCHA may include information about user activity on the Site and technical data such as IP address and interactions with form elements."
+        },
+        "googleAnalytics": {
+          "title": "2.6. Google Analytics",
+          "content": "The Website uses Google Analytics, an analytical tool provided by Google, which collects statistical data about traffic on the Website. Data collected by Google Analytics includes, among others: IP address, browser type, geographic location, time on the page and clicks on the Site. This information helps us better understand user behavior and improve the functionality and content of the Site."
+        },
+        "contactFormItems": [
+          "Name and surname",
+          "Email address",
+          "Message content"
+        ],
+        "offerFormItems": [
+          "Name and surname",
+          "Email address",
+          "Phone number",
+          "Company name",
+          "Company address",
+          "Company NIP",
+          "Details regarding the offer inquiry, such as: technologies, project description (optional), attachments (optional)"
+        ],
+        "cookiesItems": [
+          "Ensuring the proper functioning of the website",
+          "Improving navigation and personalizing content"
+        ]
+      },
+      "processingPurposes": {
+        "title": "3. Purposes of Data Processing",
+        "content": "Personal data collected through forms, cookies and analytical tools are processed for the following purposes:",
+        "items": [
+          "Responding to inquiries sent via the contact form",
+          "Preparing and sending a commercial offer",
+          "Optimizing website performance",
+          "Maintaining the proper operation of the website",
+          "Analysis of website traffic using Google Analytics",
+          "Protect against spam and bots with reCAPTCHA"
+        ]
+      },
+      "legalBasis": {
+        "title": "4. Legal Basis for Data Processing",
+        "content": "The processing of personal data is based on:",
+        "items": [
+          "Article 6(1)(a) of the GDPR – the consent of the data subject (in the case of contact through the contact form or offer inquiry)",
+          "Article 6(1)(b) of the GDPR – the necessity of processing data for the performance of a contract or pre-contractual activities (in the case of the offer inquiry form)",
+          "Article 6(1)(f) of the GDPR – legitimate interest of the data controller (to ensure the operation of the website)"
+        ]
+      },
+      "dataRetention": {
+        "title": "5. Data Retention Period",
+        "content": "Data from the contact form and offer inquiry are retained for the time necessary to fulfill the purpose for which they were collected or until consent is withdrawn. Data from cookies are stored for the time specified in the browser settings. The user can change cookie settings in the browser at any time or completely disable them. However, disabling cookies may affect the functionality of our website."
+      },
+      "rights": {
+        "title": "6. Your Rights",
+        "content": "In connection with the processing of personal data, you have the following rights:",
+        "items": [
+          "The right to access your personal data",
+          "The right to rectify your data",
+          "The right to erase data (‘the right to be forgotten’)",
+          "The right to restrict the processing of data",
+          "The right to data portability",
+          "The right to object to the processing of data",
+          "The right to withdraw consent for data processing at any time"
+        ],
+        "contact": "To exercise the above rights, please contact us via email at: <strong>kontakt@devnow.net</strong>."
+      },
+      "dataRecipients": {
+        "title": "7. Data Recipients",
+        "content": "Your data may be shared with entities processing it on our behalf, such as IT service providers, but only to the extent necessary to provide services. All such entities are obliged to maintain confidentiality and ensure adequate data protection measures."
+      },
+      "policyChanges": {
+        "title": "8. Changes to the Privacy Policy",
+        "content": "We reserve the right to make changes to this Privacy Policy. Current information will always be available on this page."
+      },
+      "contact": {
+        "title": "9. Contact",
+        "content": "If you have any questions regarding the processing of personal data, please contact us via email at: <strong>kontakt@devnow.net</strong>."
+      }
+    }
+  }
+}

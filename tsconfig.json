@@ -1,6 +1,10 @@
 {
   "compilerOptions": {
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -18,9 +22,23 @@
       }
     ],
     "paths": {
-      "./*": ["./src/*"]
-    }
+      "@/*": [
+        "./src/app/*"
+      ]
+    },
+    "downlevelIteration": true,
+    "target": "ES2017"
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
-  "exclude": ["node_modules"]
+  "include": [
+    "src/app/i18n.js",
+    "src/middleware.js",
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "i18nConfig.js"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }

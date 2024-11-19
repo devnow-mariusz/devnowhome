@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://devnow.net
+
+# Sitemaps
+Sitemap: https://devnow.net/sitemap.xml

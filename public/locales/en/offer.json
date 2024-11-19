@@ -1,0 +1,44 @@
+{
+  "page_title": "Offer",
+  "from": "from",
+  "currency": "gross (PLN)",
+  "technical_support": "Technical support",
+  "basic_site": {
+    "title": "Simple <1></1> Website",
+    "description": "Perfect when you start your online business.",
+    "price": "1900",
+    "features": {
+      "feature1": "Design tailored to your needs",
+      "feature2": "Home page with several subpages or the so-called One-Page Website, i.e. all content on one page"
+    }
+  },
+  "complex_site": {
+    "title": "Complex <1></1> Website",
+    "description": "The optimal solution when you need more than standard functionalities and greater personalization.",
+    "price": "4500",
+    "features": {
+      "feature1": "Individualized graphic design",
+      "feature2": "More subpages and content",
+      "feature3": "Optional content management system (CMS)",
+      "feature4": "Additional functionalities, e.g. reservation system or advanced forms"
+    }
+  },
+  "online_shop": {
+    "title": "Online <1></1> Shop",
+    "description": "Run your business online.",
+    "price": "6500",
+    "features": {
+      "feature1": "Full integration with the online payment system",
+      "feature2": "Product and order management panel",
+      "feature3": "Professional product photo session"
+    }
+  },
+  "each_variant": {
+    "title": "Each variant",
+    "feature1": "Possibility to purchase ongoing technical support",
+    "feature2": "Possibility to purchase administration of your website"
+  },
+  "free_hour": "One hour of free technical support",
+  "button_valuation": "Valuation",
+  "alert_message": "Each project is optimized in terms of responsiveness (RWD), operational efficiency and maintaining standards for positioning (SEO) in search engines."
+}

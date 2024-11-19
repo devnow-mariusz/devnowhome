@@ -1,0 +1,54 @@
+{
+  "page_title": "Valuation form",
+  "button_back": "Back",
+  "button_next": "Next",
+  "button_send": "Send",
+  "table_name": "Name",
+  "table_size": "Size",
+  "table_type": "Type",
+  "name": "First name",
+  "last_name": "Last name",
+  "email_address": "Email address",
+  "phone_number": "Phone number",
+  "company": "Company",
+  "company_name": "Company name",
+  "city": "City",
+  "postal_code": "Postal code",
+  "street": "Street",
+  "step_one": {
+    "step_name": "Contact information",
+    "page_info": "The following form allows you to present the project requirements in a simple and non-formal way for the purpose of preparing a valuation. Expect to be contacted within 24 hours after submission."
+  },
+  "step_two": {
+    "step_name": "Requirements",
+    "input_placeholder": "Enter name, e.g., Angular",
+    "button_add": "Add",
+    "switch_text": "I don't know what my project requires",
+    "added_requirements_title": "Added requirements",
+    "no_elements": "No elements",
+    "requirements_header": "Add requirements",
+    "datepicker_placeholder": "Choose a date",
+    "deadline_title": "Deadline for completion"
+  },
+  "step_three": {
+    "step_name": "Project description"
+  },
+  "step_four": {
+    "step_name": "Attachments",
+    "button_files": "Select files",
+    "files_description": "Maximum file size is 2MB. Allowed types: jpg/jpeg/png/pdf.",
+    "added_files_title": "Selected files:",
+    "no_files": "No files"
+  },
+  "step_five": {
+    "step_name": "Summary",
+    "first_section_title": "Contact information",
+    "second_section_title": "Requirements",
+    "second_section_deadline_title": "Deadline",
+    "second_section_technologie_title": "Technologies",
+    "third_section_title": "Project description",
+    "fourth_section_title": "Attachments",
+    "consent_text": "I consent to the processing of my personal data in accordance with the <1>privacy policy</1> (required).",
+    "no_data": "No data"
+  }
+}

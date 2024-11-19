@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Opis projektu
 
-## Getting Started
+Dynamiczna, dwujęzyczna strona domowa Devnow.net zbudowana na frameworku NextJS.
 
-First, run the development server:
+## Użyte technologie / biblioteki
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- NextJS
+- TypeScript
+- Nodemailer
+- Classnames
+- Date-fns
+- Formik
+- Framer-motion
+- i18next
+- Photoswipe
+- Quill
+- React-datepicker
+- Yup
+- TailwindCSS
+- DaisyUI
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Ponadto podpięte zostało: Google Recaptcha oraz Google Analytics.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Cel projektu
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Celem projektu jest prezentacja oferty Devnow.net, umożliwienie szybkiej wyceny i kontaktu z wykonawcą.
 
-## Learn More
+## Optymalizacja
 
-To learn more about Next.js, take a look at the following resources:
+W celu optymalizacji działania (szybkość ładowania / SEO), zastosowano:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Server Side Rendering (przerzucenie części odpowiedzialności za uruchomienie kodu z urządzenia klienckiego na serwer)
+- Znaczniki Image i Script, które odpowiadają: za np. wczytywanie plików graficznych w odpowiednim formacie oraz za wczytywanie skryptów w odpowiednim momencie (np. podczas interakcji użytkownika z interfejsem aplikacji)
+- Użycie optimizePackageImports w pliku konfiguracyjnym dla wybranych bibliotek w celu ładowania jedynie potrzebnych części kodu z tychże bibliotek
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Uruchomienie
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Aplikacja została uruchomiona na hostingu współdzielonym w środowisku NodeJS.

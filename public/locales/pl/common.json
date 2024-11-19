@@ -1,0 +1,32 @@
+{
+  "menu_home": "Strona główna",
+  "menu_git": "Git",
+  "menu_realizations": "Realizacje",
+  "menu_project_x": "Projekt X",
+  "menu_offer": "Oferta",
+  "menu_valuation": "Wycena",
+  "menu_about": "O firmie",
+  "menu_contact": "Kontakt",
+  "footer_policy": "Polityka prywatności",
+  "footer_cookies": "Ciasteczka",
+  "footer_all_rights": "Wszelkie prawa zastrzeżone",
+  "cookies": {
+    "button_accept": "Akcpetuję",
+    "button_reject": "Odrzucam",
+    "cookies_modal": {
+      "content_title": "Zarządzanie zgodą cookies",
+      "content_paragraph": "Używamy cookies analitycznych, aby lepiej zrozumieć, jak korzystasz ze strony. Możesz wyrazić zgodę na ich użycie lub wycofać zgodę w dowolnym momencie."
+    },
+    "cookies_consent_bar": {
+      "content_paragraph": "Dla zapewnienia poprawności działania strony używamy niezbędnych plików cookies oraz plików analitycznych w celu poprawy jakości usług. Zgodę lub odmowę możesz zmienić klikając link w stopce strony."
+    }
+  },
+  "call_order_modal": {
+    "name": "Imię",
+    "phone_number": "Numer telefonu",
+    "button_send": "Prześlij prośbę",
+    "privacy_policy_consent": "Wyrażam zgodę na przetwarzanie moich danych osobowych zgodnie z <1>polityką prywatności</1> (wymagane).",
+    "content_paragraph": "Masz pytania? Podaj swoje dane, a oddzwonię tak szybko, jak będę mógł.",
+    "content_title": "Zamów rozmowę telefoniczną"
+  }
+}

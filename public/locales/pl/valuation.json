@@ -1,0 +1,54 @@
+{
+  "page_title": "Zapytanie ofertowe",
+  "button_back": "Powrót",
+  "button_next": "Dalej",
+  "button_send": "Wyślij",
+  "table_name": "Nazwa",
+  "table_size": "Rozmiar",
+  "table_type": "Typ",
+  "name": "Imię",
+  "last_name": "Nazwisko",
+  "email_address": "Adres e-mail",
+  "phone_number": "Numer telefonu",
+  "company": "Firma",
+  "company_name": "Nazwa firmy",
+  "city": "Miasto",
+  "postal_code": "Kod pocztowy",
+  "street": "Ulica",
+  "step_one": {
+    "step_name": "Dane kontaktowe",
+    "page_info": "Poniższy formularz w prosty i niezobowiązujący sposób umożliwi Ci przedstawienie wymagań projektu w celu przygotowania wyceny. Czekaj na kontakt w ciągu 24h od przesłania zgłoszenia."
+  },
+  "step_two": {
+    "step_name": "Wymagania",
+    "input_placeholder": "Wpisz nazwę, np. Angular",
+    "button_add": "Dodaj",
+    "switch_text": "Nie wiem, czego zlecenie wymaga",
+    "added_requirements_title": "Dodane wymagania",
+    "no_elements": "Brak elementów",
+    "requirements_header": "Dodaj wymagania",
+    "datepicker_placeholder": "Wybierz datę",
+    "deadline_title": "Termin realizacji"
+  },
+  "step_three": {
+    "step_name": "Opis projektu"
+  },
+  "step_four": {
+    "step_name": "Załączniki",
+    "button_files": "Wybierz pliki",
+    "files_description": "Maksymalny rozmiar pliku 2MB. Dozwolone typy: jpg/jpeg/png/pdf.",
+    "added_files_title": "Wybrane pliki:",
+    "no_files": "brak"
+  },
+  "step_five": {
+    "step_name": "Podsumowanie",
+    "first_section_title": "Dane kontaktowe",
+    "second_section_title": "Wymagania",
+    "second_section_deadline_title": "Termin realizacji projektu",
+    "second_section_technologie_title": "Technologie",
+    "third_section_title": "Opis projektu",
+    "fourth_section_title": "Załączniki",
+    "consent_text": "Wyrażam zgodę na przetwarzanie moich danych osobowych zgodnie z <1>polityką prywatności</1> (wymagane).",
+    "no_data": "Brak"
+  }
+}

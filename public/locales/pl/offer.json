@@ -1,0 +1,44 @@
+{
+  "page_title": "Oferta",
+  "from": "od",
+  "currency": "zł brutto",
+  "technical_support": "Wsparcie techniczne",
+  "basic_site": {
+    "title": "Prosta <1></1> strona",
+    "description": "Idealna, gdy rozpoczynasz działalność w internecie.",
+    "price": "1900",
+    "features": {
+      "feature1": "Design dostosowany do Twoich potrzeb",
+      "feature2": "Strona główna z kilkoma podstronami lub tzw. One-Page Website, czyli cała treść na jednej stronie"
+    }
+  },
+  "complex_site": {
+    "title": "Rozbudowana <1></1> strona",
+    "description": "Optymalne rozwiązanie, gdy potrzebujesz niestandardowych funkcjonalności i większej personalizacji.",
+    "price": "4500",
+    "features": {
+      "feature1": "Zindywidualizowany projekt graficzny",
+      "feature2": "Większa ilość podstron i treści",
+      "feature3": "Opcjonalnie system zarządzania treścią (CMS)",
+      "feature4": "Dodatkowe funkcjonalności, np. system rezerwacji lub rozbudowane formularze"
+    }
+  },
+  "online_shop": {
+    "title": "Sklep <1></1> internetowy",
+    "description": "Poprowadź swój biznes w sieci.",
+    "price": "6500",
+    "features": {
+      "feature1": "Pełna integracja z systemem płatności internetowych",
+      "feature2": "Panel zarządzania produktami i zamówieniami",
+      "feature3": "Profesjonalna sesja zdjęciowa produktów"
+    }
+  },
+  "each_variant": {
+    "title": "Do każdego wariantu",
+    "feature1": "Możliwość wykupienia stałego wsparcia technicznego",
+    "feature2": "Możliwość wykupienia administrowania Twoją stroną"
+  },
+  "free_hour": "Darmowa godzina wsparcia technicznego",
+  "button_valuation": "Wycena",
+  "alert_message": "Każdy projekt optymalizowany jest pod kątem responsywności (RWD), wydajności działania oraz zachowania standardów dla pozycjonowania (SEO) w wyszukiwarkach."
+}
